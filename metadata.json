@@ -2,5 +2,5 @@
     "name": "Poor Token",
     "symbol": "POOR",
     "description": "For the poors",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/bookkeepoooor/fungible-token-metadata/main/PoorLogo.png"
   }
